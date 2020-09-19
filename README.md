@@ -10,12 +10,12 @@
 
 ## Contents
 
-1. [The Polygon calculator](#ThePolygoncalculator)
+1. [The Polygon calculator](#The-Polygon-calculator)
 2. [Commands](#Commands)
-    1. [Polygon](#`polygon`)
+    1. [Polygon](###polygon)
 3. [Errors](#Errors)
 4. [Precision](#usage)
-5. [Test Game](#TestGame)
+5. [Test Game](#Test-Game)
 6. [License](#license)
 
 
